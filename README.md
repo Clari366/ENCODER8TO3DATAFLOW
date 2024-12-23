@@ -70,8 +70,7 @@ endmodule
 
 **TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
 
-![WhatsApp Image 2024-12-09 at 7 27 33 PM](https://github.com/user-attachments/assets/bf29ea8a-0be0-4bf8-b69e-2bffb1416fa5)
-
+![Screenshot 2024-12-23 140453](https://github.com/user-attachments/assets/6d906b5f-b068-4492-b36a-032876367bf0)
 
 **RESULTS**
 Thus encoder 8 to 3 in data modelling using verilog is implemented and their functionality using their functional tables is verified.
