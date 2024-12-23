@@ -74,7 +74,7 @@ endmodule
 
 
 **RESULTS**
-thus encoder 8 to 3 in data modelling using verilog is implemented and their functionality using their functional tables is verified.
+Thus encoder 8 to 3 in data modelling using verilog is implemented and their functionality using their functional tables is verified.
 
 
 
